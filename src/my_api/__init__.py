@@ -1,3 +1,3 @@
 def main() -> None:
-    from api_activity.app import run_app
+    from my_api.app import run_app
     run_app()
